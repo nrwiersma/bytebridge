@@ -5810,7 +5810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588954567287443456"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588886905576427520"
 			(at 232.41 92.71 0)
 			(effects
 				(font
@@ -5819,7 +5819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Direct Insert 2.54mm Policy 3A 2.5mm -40℃~+105℃ 3mm 6mm 250V Black 1x3P Single Row 3P Pin Headers"
+		(property "Description" "3A Direct Insert Policy 3P -40℃~+105℃ 2.54mm Single Row Black 1x3P Plugin,P=2.54mm Pin Headers ROHS"
 			(at 232.41 92.71 0)
 			(effects
 				(font
@@ -5828,7 +5828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "XFCN"
+		(property "Manufacturer" "BOOMELE(Boom Precision Elec)"
 			(at 232.41 92.71 90)
 			(effects
 				(font
@@ -5837,7 +5837,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PZ254V-11-03P"
+		(property "MPN" "2.54-1*3PPin"
 			(at 232.41 92.71 90)
 			(effects
 				(font
@@ -5846,7 +5846,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2937625"
+		(property "JLCPCB Part #" "C49257"
 			(at 232.41 92.71 90)
 			(effects
 				(font
@@ -6470,7 +6470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588888829499478016"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588894560420573184"
 			(at 266.7 110.49 0)
 			(effects
 				(font
@@ -6479,7 +6479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Bend insert Policy 2.5mm 4P 6mm -40℃~+105℃ 2.54mm Single Row Black Brass 1x4P Push-Pull,P=2.54mm Pin Headers ROHS"
+		(property "Description" "3A Bend insert Policy 4P 6mm -55℃~+105℃ 2.54mm Single Row Black 1x4P Push-Pull,P=2.54mm Pin Headers ROHS"
 			(at 266.7 110.49 0)
 			(effects
 				(font
@@ -6488,7 +6488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "XFCN"
+		(property "Manufacturer" "BOOMELE(Boom Precision Elec)"
 			(at 266.7 110.49 0)
 			(effects
 				(font
@@ -6497,7 +6497,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PZ254R-11-04P"
+		(property "MPN" "2.54-1*4P反弯排针"
 			(at 266.7 110.49 0)
 			(effects
 				(font
@@ -6506,7 +6506,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C492412"
+		(property "JLCPCB Part #" "C91552"
 			(at 266.7 110.49 0)
 			(effects
 				(font
