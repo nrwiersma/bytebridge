@@ -2049,19 +2049,6 @@
 				)
 			)
 		)
-		(property "Manufaturer" "YAGEO"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ee67efe2-e633-42fe-a21c-08b43f0e9a74")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "MPN" "RC0402FR-0747K5L"
 			(at 0 0 90)
 			(unlocked yes)
@@ -2081,6 +2068,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "69815fcd-b1a1-49f6-8c0f-f5ee91a5db11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2937fc42-3c27-4db3-99cd-cd31a1643fed")
 			(effects
 				(font
 					(size 1 1)
@@ -4833,19 +4833,6 @@
 				)
 			)
 		)
-		(property "Manufcturer" "YAGEO"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5b4b1db7-86b8-43c9-a3d6-c77915725e6e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "MPN" "RC0402FR-0722K1L"
 			(at 0 0 90)
 			(unlocked yes)
@@ -4865,6 +4852,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6127feac-d66c-42b2-abfe-f36157b1ca9d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "940c8b94-7af5-44e1-b3c2-cc9bc9a524e9")
 			(effects
 				(font
 					(size 1 1)

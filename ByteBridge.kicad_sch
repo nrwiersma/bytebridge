@@ -5733,7 +5733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufcturer" "YAGEO"
+		(property "Manufacturer" "YAGEO"
 			(at 97.79 76.2 90)
 			(effects
 				(font
@@ -6230,7 +6230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" "YAGEO"
+		(property "Manufacturer" "YAGEO"
 			(at 105.41 81.28 90)
 			(effects
 				(font
