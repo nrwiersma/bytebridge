@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ByteBridge")(type "KiCad")(uri "${KIPRJMOD}/ByteBridge.pretty")(options "")(descr ""))
+)
